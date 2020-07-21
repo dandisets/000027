@@ -1,0 +1,8 @@
+2020-10-21T10:10:34-0400 [INFO    ] dandi Traversing remote dandisets (000027) recursively
+2020-10-21T10:10:34-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-RAT123/sub-RAT123.nwb
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/0f/740feade0d784acc8ec76bb7834d80dc -> /mnt/backup/dandi/dandisets/000027/sub-RAT123/sub-RAT123.nwb
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/0f/740feade0d784acc8ec76bb7834d80dc?versionId=Y3wgHpkkLNI2NwEZH_cG6B0MPpc7eRb_ to asset
+2020-10-21T10:10:35-0400 [INFO    ] backups2datalad.py Commiting changes
