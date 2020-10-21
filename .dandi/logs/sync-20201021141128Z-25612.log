@@ -3,3 +3,22 @@
 2020-10-21T10:11:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-RAT123/sub-RAT123.nwb
 2020-10-21T10:11:29-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
 2020-10-21T10:11:29-0400 [INFO    ] backups2datalad.py Commiting changes
+2020-10-21T10:11:30-0400 [INFO    ] backups2datalad.py Creating GitHub sibling for 000027
+2020-10-21T10:11:30-0400 [INFO    ] backups2datalad.py Pushing to sibling
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Determine push target
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Push refspecs
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Determine push target
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Push refspecs
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Transfer data
+2020-10-21T10:11:30-0400 [INFO    ] datalad.annex Start annex operation
+2020-10-21T10:11:30-0400 [INFO    ] datalad.annex Finished
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Transfer data
+2020-10-21T10:11:30-0400 [INFO    ] datalad.core.distributed.push Update availability information
+2020-10-21T10:11:31-0400 [INFO    ] datalad.gitrepo Start resolving deltas
+2020-10-21T10:11:31-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:   0% (0/2)
+2020-10-21T10:11:31-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:  50% (1/2)
+2020-10-21T10:11:31-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (2/2)
+2020-10-21T10:11:31-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+2020-10-21T10:11:34-0400 [INFO    ] datalad.gitrepo Finished
+2020-10-21T10:11:34-0400 [INFO    ] datalad.core.distributed.push Finished push of Dataset(/mnt/backup/dandi/dandisets/000027)
+2020-10-21T10:11:34-0400 [INFO    ] datalad.core.distributed.push Finished push of Dataset(/mnt/backup/dandi/dandisets/000027)
