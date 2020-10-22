@@ -1,5 +1,0 @@
-2020-10-21T10:12:23-0400 [INFO    ] dandi Traversing remote dandisets (000027) recursively
-2020-10-21T10:12:23-0400 [INFO    ] backups2datalad.py Updating metadata file
-2020-10-21T10:12:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-RAT123/sub-RAT123.nwb
-2020-10-21T10:12:24-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
-2020-10-21T10:12:24-0400 [INFO    ] backups2datalad.py Commiting changes
