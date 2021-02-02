@@ -18,6 +18,8 @@
 {
 "age":
 "12 mo",
+"bogus":
+1,
 "genotype":
 "wt",
 "identifier":
@@ -43,9 +45,9 @@
 "subject_id":
 "rat123",
 "uploaded_by":
-"dandi 0.5.0+12.gd4ef762.dirty",
+"dandi 0.10.0+108.g370e57f",
 "uploaded_datetime":
-"2020-07-21T18:00:36.703727-04:00",
+"2021-02-02T14:11:47.985041-05:00",
 "uploaded_mtime":
 "2020-07-21T17:31:55.283394-04:00",
 "uploaded_size":
