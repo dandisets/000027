@@ -2,11 +2,15 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000027
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
+about: []
 access:
-- status: dandi:Open
+- contactPoint:
+    schemaKey: ContactPoint
+  status: dandi:Open
 citation: 'Last, First (2021) Test dataset for testing dandi-cli.. Online: https://dandiarchive.org/000027/draft'
 contributor:
-- identifier: 0000-0003-3456-2493
+- affiliation: []
+  identifier: 0000-0003-3456-2493
   includeInCitation: true
   name: Last, First
   roleName:
@@ -17,12 +21,21 @@ description: 'Should be ignored by regular mortals.
 
   ATM contains only a few files from http://github.com/dandi-datasets/nwb_test_data
   which more or less appropriate (do not lack critical metadata) for testing'
+ethicsApproval: []
 id: 000027/draft
 identifier: DANDI:000027
 keywords:
 - development
+license:
+- spdx:CC-BY-4.0
+manifestLocation: []
 name: Test dataset for testing dandi-cli.
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
+studyTarget: []
 url: https://dandiarchive.org/000027/draft
 version: draft
+wasGeneratedBy: []
