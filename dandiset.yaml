@@ -7,15 +7,27 @@ access:
 - contactPoint:
     schemaKey: ContactPoint
   status: dandi:Open
-citation: 'Last, First (2021) Test dataset for testing dandi-cli.. Online: https://dandiarchive.org/000027/draft'
+citation: 'Yaroslav O Halchenko (2021) Test dataset for testing dandi-cli.. Online:
+  https://dandiarchive.org/000027/draft'
 contributor:
-- affiliation: []
+- affiliation:
+  - contactPoint: []
+    identifier: https://ror.org/049s0rh22
+    includeInCitation: false
+    name: Dartmouth College
+    roleName: []
+    schemaKey: Organization
+  email: yoh@dartmouth.edu
   identifier: 0000-0003-3456-2493
   includeInCitation: true
-  name: Last, First
+  name: Yaroslav O Halchenko
   roleName:
+  - dandi:Conceptualization
   - dandi:Author
+  - dandi:Maintainer
+  - dandi:ProjectMember
   schemaKey: Person
+  url: http://centerforopenneuroscience.org/
 description: 'Should be ignored by regular mortals.
 
 
