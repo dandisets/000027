@@ -6,6 +6,7 @@ about: []
 access:
 - contactPoint:
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach: []
@@ -27,11 +28,8 @@ citation: Yaroslav O Halchenko (2021) Test dataset for testing dandi-cli (Versio
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000027/draft
 contributor:
 - affiliation:
-  - contactPoint: []
-    identifier: https://ror.org/049s0rh22
-    includeInCitation: false
+  - identifier: https://ror.org/049s0rh22
     name: Dartmouth College
-    roleName: []
     schemaKey: Affiliation
   email: yoh@dartmouth.edu
   identifier: 0000-0003-3456-2493
