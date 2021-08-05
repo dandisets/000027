@@ -54,7 +54,8 @@ keywords:
 - development
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000027/versions/draft/assets/
 name: Test dataset for testing dandi-cli.
 protocol: []
 relatedResource: []
