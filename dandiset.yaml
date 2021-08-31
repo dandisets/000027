@@ -5,7 +5,9 @@
 about: []
 access:
 - contactPoint:
+    email: team@dandiarchive.org
     schemaKey: ContactPoint
+    url: https://dandiarchive.org
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
@@ -24,7 +26,7 @@ assetsSummary:
     name: Brown rat
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Yaroslav O Halchenko (2021) Test dataset for testing dandi-cli (Version
+citation: Halchenko, Yaroslav O. (2021) Test dataset for testing dandi-cli (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000027/draft
 contributor:
 - affiliation:
@@ -34,14 +36,16 @@ contributor:
   email: yoh@dartmouth.edu
   identifier: 0000-0003-3456-2493
   includeInCitation: true
-  name: Yaroslav O Halchenko
+  name: Halchenko, Yaroslav O.
   roleName:
   - dcite:Conceptualization
   - dcite:Author
   - dcite:Maintainer
   - dcite:ProjectMember
+  - dcite:ContactPerson
   schemaKey: Person
   url: http://centerforopenneuroscience.org/
+dateCreated: '2020-07-08T21:54:42.543000+00:00'
 description: 'Should be ignored by regular mortals.
 
 

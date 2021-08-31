@@ -28,6 +28,8 @@
 ],
 "dateModified":
 "2021-06-29T18:59:29.491552-04:00",
+"datePublished":
+"2021-08-31T20:34:01.218233+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -45,6 +47,34 @@
 [],
 "path":
 "sub-RAT123/sub-RAT123.nwb",
+"publishedBy":
+{
+"endDate":
+"2021-08-31T20:34:01.218233+00:00",
+"id":
+"urn:uuid:577dc0e1-1f67-415a-b792-006bb94ae946",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2021-08-31T20:34:01.218233+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a221bbaa-d6d8-4dde-8566-a23b583a80b9",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "repository":
 "https://dandiarchive.org/",
 "schemaKey":
