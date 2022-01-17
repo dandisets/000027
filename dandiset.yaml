@@ -19,14 +19,14 @@ assetsSummary:
   measurementTechnique: []
   numberOfBytes: 18792
   numberOfFiles: 1
-  numberOfSubjects: 1
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Brown rat
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Halchenko, Yaroslav O. (2021) Test dataset for testing dandi-cli (Version
+citation: Halchenko, Yaroslav O. (2022) Test dataset for testing dandi-cli (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000027/draft
 contributor:
 - affiliation:
