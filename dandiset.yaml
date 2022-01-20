@@ -19,7 +19,7 @@ assetsSummary:
   measurementTechnique: []
   numberOfBytes: 18792
   numberOfFiles: 1
-  numberOfSubjects: 2
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
