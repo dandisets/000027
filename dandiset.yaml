@@ -23,10 +23,10 @@ assetsSummary:
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
-    name: Brown rat
+    name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Halchenko, Yaroslav O. (2022) Test dataset for testing dandi-cli (Version
+citation: Halchenko, Yaroslav O. (2023) Test dataset for testing dandi-cli (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000027/draft
 contributor:
 - affiliation:
@@ -63,7 +63,7 @@ manifestLocation:
 name: Test dataset for testing dandi-cli.
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
